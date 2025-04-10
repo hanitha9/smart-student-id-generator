@@ -1,4 +1,4 @@
-# smart-student-id-generator
+
 # Smart Student ID Generator
 
 ## Overview
